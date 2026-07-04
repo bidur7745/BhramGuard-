@@ -1,0 +1,51 @@
+text,label
+"Your recent banking session was flagged for unusual device activity. To avoid a temporary restriction on transfers, review the security notice in your account center at https://secure-review.example.invalid within 12 hours.",1
+"Payroll records show your tax withholding profile has expired after the HR platform upgrade. Please confirm your employee details through the staff portal at https://hr-update.example.invalid before today's payroll cutoff.",1
+"We could not complete delivery because the address validation step failed. Confirm the delivery address and small rescheduling fee at https://parcel-confirm.example.invalid to prevent return to sender.",1
+"A new payee was added to your online banking profile from an unrecognized browser. If this was not you, cancel the change immediately using the secure message link: https://banking-alert.example.invalid.",1
+"Your company mailbox storage will be reduced tonight due to policy changes. Sign in through https://mail-quota.example.invalid to keep your current archive and shared drive access.",1
+"Your benefits enrollment is missing one required electronic signature. Complete verification at https://benefits-review.example.invalid by 5:00 PM to keep medical coverage active.",1
+"Payment for invoice INV-48291 was placed on hold because the vendor bank information does not match our records. Review the remittance file at https://invoice-check.example.invalid and approve the corrected details.",1
+"Your account recovery phone number was changed today. If you did not request this update, visit https://account-safety.example.invalid to restore your previous security settings.",1
+"A secure document titled Updated Employment Agreement has been shared with you. The file expires in 24 hours and requires company login at https://doc-access.example.invalid.",1
+"Your card ending in 2048 has been temporarily limited after repeated contactless attempts. Verify recent transactions at https://card-protect.example.invalid to reactivate normal use.",1
+"The finance team has released the revised Q3 bonus schedule. Employees must acknowledge the updated payout policy in the HR portal: https://payroll-notice.example.invalid.",1
+"We were unable to process your subscription renewal because the billing profile needs confirmation. Update the saved payment method at https://billing-center.example.invalid before service is interrupted.",1
+"A delivery exception was recorded for your shipment after the driver could not access the location. Please confirm delivery instructions at https://route-update.example.invalid today.",1
+"Your student portal password will expire tonight because your account has not completed the new identity check. Continue access by validating your profile at https://student-verify.example.invalid.",1
+"Security monitoring detected a sign-in from a new city on your cloud storage account. Review the event and confirm access at https://cloud-login-check.example.invalid.",1
+"Your direct deposit update is pending manager approval. Log in at https://employee-pay.example.invalid to confirm the request before payroll closes.",1
+"A confidential voicemail transcript has been sent to your inbox but cannot be displayed until your mailbox identity is confirmed at https://voice-message.example.invalid.",1
+"Your tax document download failed due to incomplete identity verification. Re-authenticate through https://tax-docs.example.invalid to access the file.",1
+"Your business account is scheduled for enhanced verification under updated compliance rules. Complete the customer review at https://compliance-review.example.invalid to avoid limited transfers.",1
+"The shared project folder containing February payment approvals will be removed tonight. Open the secure workspace at https://shared-folder.example.invalid to retain access.",1
+"Your travel reimbursement request was returned because the bank routing number could not be verified. Correct the payment profile at https://expense-review.example.invalid within one business day.",1
+"A pending wire transfer requires secondary approval after the recipient name was edited. Review the request at https://wire-confirm.example.invalid before the approval window closes.",1
+"Your package is waiting at the local depot, but customs information is incomplete. Submit the missing confirmation at https://customs-clear.example.invalid to release the shipment.",1
+"Your internal chat account has been scheduled for deactivation because annual security training is incomplete. Complete the acknowledgment at https://training-access.example.invalid.",1
+"A revised employee handbook has been issued after the remote-work policy update. Sign in at https://policy-acknowledge.example.invalid to confirm receipt by the end of the day.",1
+"Hi Maya, I moved our design review to Thursday at 2:30 PM because the product team needed more time to prepare the prototype. The calendar invite has the updated meeting room.",0
+"Thanks for sending the draft proposal. I added a few comments in the margin and will review the budget section again after lunch.",0
+"Good morning team, the office internet may be slower between 9:00 and 10:00 AM while the provider completes routine maintenance. No action is needed from your side.",0
+"Hi Arjun, your leave request for Monday and Tuesday has been approved. Please update the handover notes before Friday so the support queue is covered.",0
+"I received your assignment file and the formatting looks fine. Please bring a printed copy tomorrow for the short presentation.",0
+"Hello, the delivery arrived safely this afternoon. One box has a small tear on the outside, but the items inside look complete.",0
+"Can we shift our call to 4:00 PM today? I have another meeting running longer than expected and do not want to rush the discussion.",0
+"Dear students, the lab will remain open until 5:30 PM this week for anyone who needs extra time to work on the database exercise.",0
+"Hi Rina, I have attached the minutes from yesterday's meeting. The main pending item is the final confirmation from the vendor.",0
+"Thanks for your help with the event photos. The principal liked the final selection, especially the group shots near the stage.",0
+"Hi everyone, please remember to submit your weekly progress update by Friday afternoon. A short summary with completed tasks and blockers is enough.",0
+"The invoice for the stationery order has been received and forwarded to accounts. Payment will be processed according to the normal monthly schedule.",0
+"Hey, I reached home safely. The traffic near the bridge was slow, but the rest of the trip was smooth.",0
+"Dear Mr. Khanal, thank you for meeting with us today. We appreciated the discussion and will send the revised quotation tomorrow morning.",0
+"The training session has been confirmed for next Wednesday in Room 204. Please bring your laptop because the session includes a hands-on activity.",0
+"Hi Suman, the website copy looks better now. I only suggest making the service section shorter so visitors can scan it quickly.",0
+"The library has received the new reference books requested by the department. Students may use them inside the reading room from Sunday onward.",0
+"I checked the spreadsheet and corrected the totals in rows 18 and 19. Please review the final column before we share it with finance.",0
+"Happy birthday, Pooja. Wishing you a wonderful year ahead filled with happiness, learning, and success.",0
+"Dear parents, tomorrow's program will begin at 10:30 AM. Students should arrive by 9:45 AM in their assigned dress code.",0
+"Hi Anita, I will bring the printed certificates to school in the morning. Please keep the stamp ready at the reception desk.",0
+"The project repository has been updated with the latest API changes. I also added notes explaining the new response format.",0
+"Hello team, today's stand-up notes are in the shared folder. The only blocker mentioned was the delay in receiving test data.",0
+"I spoke with the printer and they can deliver the flex by tomorrow evening. The final design file was accepted without any issue.",0
+"Hi brother, I saved the song list you recommended. I will listen to the Pink Floyd tracks first and tell you which ones I like most.",0
