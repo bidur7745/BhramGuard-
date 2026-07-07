@@ -23,15 +23,19 @@ redis==5.1.1
 
 # --- NLP / ML ---
 scikit-learn==1.5.2
+scipy==1.14.1
+joblib==1.4.2
 spacy==3.8.2
 pandas==2.2.3
 numpy==1.26.4
+huggingface_hub==0.26.1
 
 # --- LLM API (DeepSeek via OpenAI-compatible client) ---
 openai==1.51.0
 
 # --- HTTP Client ---
 httpx==0.27.2
+requests==2.34.2
 
 # --- Testing ---
 pytest==8.3.3
