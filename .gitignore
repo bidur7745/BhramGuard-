@@ -59,3 +59,6 @@ Thumbs.db
 # Editors
 .vscode/
 .idea/
+backend/ml/datasets/*.csv
+!backend/ml/datasets/phishing_legitimate_dataset.csv
+backend/ml/datasets/raw
