@@ -55,6 +55,7 @@ env/
 .DS_Store
 Thumbs.db
 *.pem
+changes log.md
 
 # Editors
 .vscode/
