@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>BhramGuard Scan Tester</title>
+    <link rel="stylesheet" href="/public/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="panel">
+        <div class="heading">
+          <p class="eyebrow">BhramGuard local tester</p>
+          <h1>Risk Scan</h1>
+          <p>Test the local text, URL, and webpage phishing models through the FastAPI backend.</p>
+        </div>
+
+        <form id="scan-form" class="scan-form">
+          <label>
+            Text
+            <textarea id="text" rows="5" placeholder="Urgent: verify your account password now..."></textarea>
+          </label>
+
+          <label>
+            URL
+            <input id="url" type="url" placeholder="http://secure-login-example.com/account/verify" />
+          </label>
+
+          <label>
+            Web / HTML
+            <textarea id="web" rows="5" placeholder="<html><form><input type='password'></form></html>"></textarea>
+          </label>
+
+          <button type="submit">Scan</button>
+        </form>
+      </section>
+
+      <section class="panel result-panel">
+        <div class="result-head">
+          <span id="risk-level" class="badge">Waiting</span>
+          <strong id="risk-score">0.00</strong>
+        </div>
+        <pre id="result">{}</pre>
+      </section>
+    </main>
+
+    <script src="/public/script.js"></script>
+  </body>
+</html>
