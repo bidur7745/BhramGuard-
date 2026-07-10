@@ -6,6 +6,9 @@ from fastapi import FastAPI
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
+from backend.app.api.v1.routes.auth import router as auth_router
+from backend.app.api.v1.routes.feedback import router as feedback_router
+from backend.app.api.v1.routes.history import router as history_router
 from backend.app.api.v1.routes.scan import router as scan_router
 
 
@@ -19,6 +22,9 @@ app = FastAPI(
     version="0.1.0",
 )
 
+app.include_router(auth_router, prefix="/api/v1")
+app.include_router(history_router, prefix="/api/v1")
+app.include_router(feedback_router, prefix="/api/v1")
 app.include_router(scan_router, prefix="/api/v1")
 
 if PUBLIC_DIR.exists():

@@ -3,7 +3,7 @@ from __future__ import annotations
 from datetime import datetime
 from typing import Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, ConfigDict, Field
 
 
 FeedbackType = Literal["false_positive", "false_negative", "correct", "uncertain"]
@@ -15,6 +15,8 @@ class FeedbackCreate(BaseModel):
 
 
 class FeedbackResponse(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
+
     id: str
     scan_id: str
     user_id: str
